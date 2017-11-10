@@ -28,7 +28,7 @@ an then install the following packages, in that order.
 <li>mapdist</li>
 <li>vq2</li>
 <li>demo_mapping</li>
-</lu>
+</ul>
 
 # Run
 
